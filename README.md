@@ -19,7 +19,7 @@
 Below we list the main tasks that we did, alongside with its source code.
 
 - [Part 1: Exploratory Data Analysis:](https://github.com/sahilarora93/Yelp_data_challenge/blob/master/Part%201%20-%20Exploratory%20Data%20Analysis.ipynb)
-- [Part 2: Review Topic Modelling:](https://github.com/sahilarora93/Yelp_data_challenge/blob/master/Review%20Topic%20Modelling.ipynb)
+- [Part 2: Review Topic Modelling:](https://github.com/sahilarora93/Yelp_data_challenge/blob/master/Part%202%20-%20Review%20Topic%20Modelling.ipynb)
 - [Part 3: Review Word embeddings:](https://github.com/sahilarora93/Yelp_data_challenge/blob/master/Part%203%20-%20Reviews%20Word%20embeddings.ipynb)
 - [Part 4: Success Predictions based on Business Attributes:](https://github.com/sahilarora93/Yelp_data_challenge/blob/master/Part%204%20-%20Success%20Predictions%20based%20on%20Business%20Attributes.ipynb)
 -------------------------------------
