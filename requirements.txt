@@ -1,0 +1,16 @@
+#This is the requirements.txt file with all dependencies.
+
+###### Requirements without Version Specifiers ######
+
+pandas
+nltk
+numpy
+re
+gensim
+matplotlib
+sklearn
+ast
+collections
+json
+seaborn
+pylab
