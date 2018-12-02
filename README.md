@@ -19,4 +19,4 @@ Below we list the main tasks that we did, alongside with its source code.
 -------------------------------------
 ### 3. Documentation and Report
 
-[The Data Analysis Report can be found at](https://github.com/sahilarora93/Yelp_data_challenge/blob/master/Yelp%20Data%20Project_%20Report.pdf)
+[The Data Analysis Report](https://github.com/sahilarora93/Yelp_data_challenge/blob/master/Yelp%20Data%20Project_%20Report.pdf)
