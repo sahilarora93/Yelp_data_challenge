@@ -1,8 +1,8 @@
 # Yelp Data Challenge
 
-**Problem Statement**: Restaurant review platforms have become our default way of searching for restaurants for every occasion. There exist straightforward means of filtering for prices, locations and cuisine (restaurant filters) and even broad categories of restaurants that you could sift through. However, when looking for specific attributes of a restaurant, or less generic contexts, this search isn’t as straightforward.
-----------------------
 ### 1. What we did in this project
+
+* **Problem Statement**: Restaurant review platforms have become our default way of searching for restaurants for every occasion. There exist straightforward means of filtering for prices, locations and cuisine (restaurant filters) and even broad categories of restaurants that you could sift through. However, when looking for specific attributes of a restaurant, or less generic contexts, this search isn’t as straightforward.
 
 * **Look into the users' reviews and tips and apply topic modelling to gain insights into customers' perception of a restaurant**: Most reviews start with the context of the occasion, company present and contain specifics on the ambience of the place. A user has to go through numerous reviews for every restaurant considered to see if the restaurant would be a perfect match for the occasion. This is too time-consuming a process. Our team is looking to provide a solution to this problem by enabling users to search for restaurants based on more distinct categories. Specifically, we will apply Natural Language Processing to the restaurant’s existing reviews to help users select the best dining options according to their moods and purposes.    
 
