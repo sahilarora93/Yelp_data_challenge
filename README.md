@@ -18,7 +18,7 @@
 ----------------------
 ### 3. Usage:
 
-- At this is largely a data analysis project, you will need to download the data in "Dataset" below, convert the JSON file to CSV using the tool below, and run notebooks (4 parts) as described in Section 4.
+- You will need to download the data in "Dataset" below, convert the JSON file to CSV using the tool below, and run notebooks (4 parts) as described in Section 4.
 - [Dataset](https://www.yelp.com/dataset): The dataset is provided by Yelp and can be downloaded from their website. The dataset's [documentation](https://www.yelp.com/dataset/documentation/main) is also available.
 - You will need to use [JSON to CSV converter](https://github.com/sahilarora93/Yelp_data_challenge/blob/master/json_to_csv_converter.py) to convert the provided JSON file. 
 - You will need to install all packages outlined in [Requirements](https://github.com/sahilarora93/Yelp_data_challenge/blob/master/requirements.txt).
