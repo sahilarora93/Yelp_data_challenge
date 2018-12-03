@@ -1,4 +1,4 @@
-# Yelp Data Challenge
+# Yelp Data Challenge Project
 
 **GROUP NAME:** Python Wranglers  
 **SECTION:** 2  
@@ -14,9 +14,10 @@
 ----------------------
 ### 2. Usage:
 
-- At this is largely a data analysis project, you will need to download the data in "Dataset" below, convert the JSON file to CSV, and run notebooks (4 parts) as described in Section 3. 
+- At this is largely a data analysis project, you will need to download the data in "Dataset" below, convert the JSON file to CSV using the tool below, and run notebooks (4 parts) as described in Section 3. 
 - [Dataset](https://www.yelp.com/dataset): The dataset is provided by Yelp and can be downloaded from their website. The dataset's [documentation](https://www.yelp.com/dataset/documentation/main) is also available.
 - You will need to use [JSON to CSV converter](https://github.com/sahilarora93/Yelp_data_challenge/blob/master/json_to_csv_converter.py) to convert the provided JSON file. 
+- You will need to install all packages outlined in [Requirements](https://github.com/sahilarora93/Yelp_data_challenge/blob/master/requirements.txt)
 - All codes assume the installation of Python 3.6+ 
 
 ----------------------
@@ -36,5 +37,4 @@ Below we list the main tasks that we did, alongside with its source code.
 -------------------------------------
 ### 5. Other Documents
 
-- [Requirements](https://github.com/sahilarora93/Yelp_data_challenge/blob/master/requirements.txt)
 - [Yelp's Contest Rules, Terms and Conditions](https://github.com/sahilarora93/Yelp_data_challenge/blob/master/%5BDocument%5D%20Yelp_Dataset_Challenge_Round_12.pdf)
