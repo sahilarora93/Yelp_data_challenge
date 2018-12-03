@@ -9,8 +9,11 @@ re
 gensim
 matplotlib
 sklearn
-ast
 collections
 json
 seaborn
 pylab
+os
+ast
+itertools
+statsmodels
