@@ -1,7 +1,7 @@
 # Yelp Data Challenge
 
-GROUP NAME: Python Wranglers
-SECTION: 2
+GROUP NAME: Python Wranglers  
+SECTION: 2  
 MEMBER NAME: Sahil Arora, Sanjana Rosario, Riddhi Kanoi, Huy Nguyen
 
 ### 1. What we did in this project
