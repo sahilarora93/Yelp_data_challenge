@@ -1,4 +1,4 @@
-# Yelp Data Challenge Project
+# Yelp Data Project
 
 **GROUP NAME:** Python Wranglers  
 **SECTION:** 2  
